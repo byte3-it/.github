@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src="https://raw.githubusercontent.com/byte3-cloud/branding/main/logo_minimal%401024.png" />
+  <img height="170x" src="https://raw.githubusercontent.com/byte3-it/branding/main/logo_minimal_black%401024.png" />
 
   <h1>byte3</h1>
 
