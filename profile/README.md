@@ -4,7 +4,7 @@
   <h1>byte3</h1>
 
   <p>
-    <strong>digital solutions for growth business</strong>
+    <strong>Custom Software Solutions</strong>
   </p>
 
 </div>
